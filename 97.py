@@ -20,4 +20,3 @@ for i in range(w):
         print(k[i][j],end=" ")
     print()
 
-
